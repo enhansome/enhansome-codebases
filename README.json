@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T01:35:23Z",
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 129463
+            "stars": 129503
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T11:46:45Z",
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84080
+            "stars": 84079
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:06:42Z",
+            "last_commit": "2026-08-13T12:34:36Z",
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 49753
+            "stars": 49760
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47492
+            "stars": 47509
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:21:26Z",
+            "last_commit": "2026-08-13T12:14:05Z",
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38745
+            "stars": 38749
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-05-14T13:53:04Z",
             "owner": "alan2207",
             "repo": "bulletproof-react",
-            "stars": 35687
+            "stars": 35691
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:00:28Z",
+            "last_commit": "2026-08-13T12:27:59Z",
             "owner": "dubinc",
             "repo": "dub",
-            "stars": 24314
+            "stars": 24330
           }
         },
         {
@@ -137,10 +137,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:00:26Z",
+            "last_commit": "2026-08-13T11:31:59Z",
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18205
+            "stars": 18207
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14854
+            "stars": 14853
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13661
+            "stars": 13665
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-02-08T15:11:33Z",
             "owner": "timlrx",
             "repo": "tailwind-nextjs-starter-blog",
-            "stars": 10535
+            "stars": 10536
           }
         },
         {
@@ -322,7 +322,7 @@
             "last_commit": "2024-06-19T00:14:25Z",
             "owner": "santiq",
             "repo": "bulletproof-nodejs",
-            "stars": 5775
+            "stars": 5776
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-09T19:23:59Z",
             "owner": "epicweb-dev",
             "repo": "epic-stack",
-            "stars": 5546
+            "stars": 5547
           }
         },
         {
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:11:46Z",
+            "last_commit": "2026-08-13T09:56:31Z",
             "owner": "lukevella",
             "repo": "rallly",
             "stars": 5211
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:37.090Z",
+    "last_updated": "2026-08-13T12:35:44.954Z",
     "original_repository": "alan2207/awesome-codebases",
     "original_repository_sha": "d23b16ee0ac2e4b1dd4f797fbb15c3549b457c4f",
     "enhanced_repository": "enhansome/enhansome-codebases",
