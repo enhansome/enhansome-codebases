@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:35:23Z",
+            "last_commit": "2026-08-14T06:48:39Z",
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 129503
+            "stars": 129583
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T11:46:45Z",
+            "last_commit": "2026-08-13T21:19:04Z",
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84079
+            "stars": 84080
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:34:36Z",
+            "last_commit": "2026-08-14T12:16:27Z",
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 49760
+            "stars": 49777
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47509
+            "stars": 47572
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:14:05Z",
+            "last_commit": "2026-08-14T12:26:32Z",
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38749
+            "stars": 38780
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-05-14T13:53:04Z",
             "owner": "alan2207",
             "repo": "bulletproof-react",
-            "stars": 35691
+            "stars": 35693
           }
         },
         {
@@ -95,10 +95,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T06:18:32Z",
+            "last_commit": "2026-08-13T23:14:04Z",
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 29726
+            "stars": 29735
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:27:59Z",
+            "last_commit": "2026-08-14T09:18:12Z",
             "owner": "dubinc",
             "repo": "dub",
-            "stars": 24330
+            "stars": 24355
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19287
+            "stars": 19285
           }
         },
         {
@@ -137,10 +137,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:31:59Z",
+            "last_commit": "2026-08-14T11:33:50Z",
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18207
+            "stars": 18215
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-10T20:49:05Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17218
+            "stars": 17221
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14853
+            "stars": 14857
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13665
+            "stars": 13670
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-02-08T15:11:33Z",
             "owner": "timlrx",
             "repo": "tailwind-nextjs-starter-blog",
-            "stars": 10536
+            "stars": 10539
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2024-08-18T10:19:30Z",
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9076
+            "stars": 9078
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2025-01-23T15:21:43Z",
             "owner": "vercel",
             "repo": "nextjs-subscription-payments",
-            "stars": 7726
+            "stars": 7725
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-12T18:08:29Z",
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7440
+            "stars": 7439
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-09T19:23:59Z",
             "owner": "epicweb-dev",
             "repo": "epic-stack",
-            "stars": 5547
+            "stars": 5548
           }
         },
         {
@@ -347,10 +347,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T09:56:31Z",
+            "last_commit": "2026-08-14T12:17:14Z",
             "owner": "lukevella",
             "repo": "rallly",
-            "stars": 5211
+            "stars": 5212
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2025-01-25T14:09:51Z",
             "owner": "bespoyasov",
             "repo": "frontend-clean-architecture",
-            "stars": 2583
+            "stars": 2584
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2026-02-24T20:27:26Z",
             "owner": "NayamAmarshe",
             "repo": "thiss.link",
-            "stars": 600
+            "stars": 601
           }
         },
         {
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:35:44.954Z",
+    "last_updated": "2026-08-14T12:29:35.743Z",
     "original_repository": "alan2207/awesome-codebases",
     "original_repository_sha": "d23b16ee0ac2e4b1dd4f797fbb15c3549b457c4f",
     "enhanced_repository": "enhansome/enhansome-codebases",
