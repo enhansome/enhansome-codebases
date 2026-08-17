@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T11:34:13Z",
+            "last_commit": "2026-08-16T15:30:04Z",
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 129746
+            "stars": 129849
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T21:19:04Z",
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84083
+            "stars": 84091
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T09:17:57Z",
+            "last_commit": "2026-08-17T11:53:15Z",
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 49797
+            "stars": 49816
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47666
+            "stars": 47734
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T15:47:47Z",
+            "last_commit": "2026-08-17T11:55:38Z",
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38819
+            "stars": 38824
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-14T14:07:49Z",
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 29746
+            "stars": 29753
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:44:48Z",
+            "last_commit": "2026-08-17T12:01:04Z",
             "owner": "dubinc",
             "repo": "dub",
-            "stars": 24429
+            "stars": 24472
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19284
+            "stars": 19283
           }
         },
         {
@@ -137,10 +137,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T17:05:51Z",
+            "last_commit": "2026-08-17T11:46:15Z",
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18220
+            "stars": 18222
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-06-09T05:30:16Z",
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17890
+            "stars": 17888
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-10T20:49:05Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17222
+            "stars": 17223
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14858
+            "stars": 14863
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-09-07T23:06:30Z",
             "owner": "devhubapp",
             "repo": "devhub",
-            "stars": 10119
+            "stars": 10121
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2024-08-18T10:19:30Z",
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9085
+            "stars": 9087
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2025-01-23T15:21:43Z",
             "owner": "vercel",
             "repo": "nextjs-subscription-payments",
-            "stars": 7724
+            "stars": 7723
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-14T16:46:52Z",
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7441
+            "stars": 7442
           }
         },
         {
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T11:58:27Z",
+            "last_commit": "2026-08-16T23:18:50Z",
             "owner": "lukevella",
             "repo": "rallly",
             "stars": 5217
@@ -364,7 +364,7 @@
             "last_commit": "2026-03-13T04:38:06Z",
             "owner": "octokatherine",
             "repo": "readme.so",
-            "stars": 4630
+            "stars": 4629
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-11T01:59:09Z",
             "owner": "hirotaka",
             "repo": "pragmatic-nuxt",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:59:44.593Z",
+    "last_updated": "2026-08-17T12:02:04.938Z",
     "original_repository": "alan2207/awesome-codebases",
     "original_repository_sha": "d23b16ee0ac2e4b1dd4f797fbb15c3549b457c4f",
     "enhanced_repository": "enhansome/enhansome-codebases",
