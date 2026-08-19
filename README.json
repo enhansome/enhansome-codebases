@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231283452,
             "language": "TypeScript",
             "last_commit": "2026-08-16T15:30:04Z",
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 129933
+            "stars": 130004
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52631841,
             "language": "TypeScript",
             "last_commit": "2026-08-13T21:19:04Z",
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84099
+            "stars": 84107
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365739812,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:14:10Z",
+            "last_commit": "2026-08-19T10:11:40Z",
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 49833
+            "stars": 49858
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350360184,
             "language": "TypeScript",
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47777
+            "stars": 47798
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:52:38Z",
+            "last_commit": "2026-08-19T11:54:03Z",
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38832
+            "stars": 38840
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372240402,
             "language": "TypeScript",
             "last_commit": "2026-05-14T13:53:04Z",
             "owner": "alan2207",
             "repo": "bulletproof-react",
-            "stars": 35709
+            "stars": 35717
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15225670,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:56:38Z",
+            "last_commit": "2026-08-19T11:42:38Z",
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 29760
+            "stars": 29769
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529708137,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:01:45Z",
+            "last_commit": "2026-08-19T11:53:18Z",
             "owner": "dubinc",
             "repo": "dub",
-            "stars": 24502
+            "stars": 24526
           }
         },
         {
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553759919,
             "language": "TypeScript",
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19284
+            "stars": 19282
           }
         },
         {
@@ -136,8 +145,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501027541,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:29:23Z",
+            "last_commit": "2026-08-19T10:28:06Z",
             "owner": "bluesky-social",
             "repo": "social-app",
             "stars": 18229
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 434218673,
             "language": "Go",
             "last_commit": "2026-06-09T05:30:16Z",
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17888
+            "stars": 17889
           }
         },
         {
@@ -164,8 +175,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47495360,
             "language": "PHP",
-            "last_commit": "2026-08-10T20:49:05Z",
+            "last_commit": "2026-08-19T06:33:18Z",
             "owner": "koel",
             "repo": "koel",
             "stars": 17222
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316988921,
             "language": "TypeScript",
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
@@ -192,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24233689,
             "language": "TypeScript",
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13684
+            "stars": 13686
           }
         },
         {
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225252643,
             "language": "JavaScript",
             "last_commit": "2024-06-20T03:45:15Z",
             "owner": "oldboyxx",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 604791960,
             "language": "TypeScript",
             "last_commit": "2024-04-20T12:17:17Z",
             "owner": "Nutlope",
@@ -234,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328121260,
             "language": "TypeScript",
             "last_commit": "2026-02-08T15:11:33Z",
             "owner": "timlrx",
             "repo": "tailwind-nextjs-starter-blog",
-            "stars": 10541
+            "stars": 10543
           }
         },
         {
@@ -248,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75236196,
             "language": "TypeScript",
             "last_commit": "2024-09-07T23:06:30Z",
             "owner": "devhubapp",
             "repo": "devhub",
-            "stars": 10121
+            "stars": 10122
           }
         },
         {
@@ -262,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254682413,
             "language": null,
             "last_commit": "2024-08-18T10:19:30Z",
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9087
+            "stars": 9091
           }
         },
         {
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 311865672,
             "language": "TypeScript",
             "last_commit": "2025-01-23T15:21:43Z",
             "owner": "vercel",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630874227,
             "language": "TypeScript",
             "last_commit": "2026-08-14T16:46:52Z",
             "owner": "Blazity",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211238195,
             "language": "TypeScript",
             "last_commit": "2024-06-29T22:57:36Z",
             "owner": "taniarascia",
@@ -318,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182484613,
             "language": "TypeScript",
             "last_commit": "2024-06-19T00:14:25Z",
             "owner": "santiq",
             "repo": "bulletproof-nodejs",
-            "stars": 5775
+            "stars": 5776
           }
         },
         {
@@ -332,11 +355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636447277,
             "language": "TypeScript",
             "last_commit": "2026-08-09T19:23:59Z",
             "owner": "epicweb-dev",
             "repo": "epic-stack",
-            "stars": 5547
+            "stars": 5546
           }
         },
         {
@@ -346,8 +370,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29924433,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T10:42:33Z",
+            "last_commit": "2026-08-19T11:51:48Z",
             "owner": "lukevella",
             "repo": "rallly",
             "stars": 5218
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356007050,
             "language": "JavaScript",
             "last_commit": "2026-03-13T04:38:06Z",
             "owner": "octokatherine",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 623053447,
             "language": "TypeScript",
             "last_commit": "2023-12-13T14:31:27Z",
             "owner": "chronark",
@@ -388,11 +415,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374626738,
             "language": "TypeScript",
             "last_commit": "2025-01-25T14:09:51Z",
             "owner": "bespoyasov",
             "repo": "frontend-clean-architecture",
-            "stars": 2584
+            "stars": 2585
           }
         },
         {
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539657053,
             "language": "TypeScript",
             "last_commit": "2022-09-23T17:54:33Z",
             "owner": "cassiozen",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 426750292,
             "language": "TypeScript",
             "last_commit": "2024-08-11T13:06:49Z",
             "owner": "nemanjam",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 268327310,
             "language": "JavaScript",
             "last_commit": "2024-09-12T15:05:54Z",
             "owner": "leerob",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459733233,
             "language": "TypeScript",
             "last_commit": "2026-02-24T20:27:26Z",
             "owner": "NayamAmarshe",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535236187,
             "language": "TypeScript",
             "last_commit": "2026-08-11T01:59:09Z",
             "owner": "hirotaka",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 493341629,
             "language": "TypeScript",
             "last_commit": "2024-08-03T23:05:06Z",
             "owner": "kriziu",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636579698,
             "language": "TypeScript",
             "last_commit": "2023-05-19T12:08:36Z",
             "owner": "alan2207",
@@ -500,36 +535,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364663872,
             "language": "TypeScript",
             "last_commit": "2022-08-02T21:45:38Z",
             "owner": "topheman",
             "repo": "nextjs-github-browser",
             "stars": 20
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Beam",
-          "description": "A simple message board for your organization or project",
-          "children": []
         }
       ],
       "title": "Awesome Codebases"
-    },
-    {
-      "description": "Contributions are welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "MIT",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:03:47.829Z",
+    "last_updated": "2026-08-19T12:03:31.136Z",
     "original_repository": "alan2207/awesome-codebases",
+    "original_repository_id": 651399411,
     "original_repository_sha": "d23b16ee0ac2e4b1dd4f797fbb15c3549b457c4f",
     "enhanced_repository": "enhansome/enhansome-codebases",
     "enhanced_repository_description": null,
