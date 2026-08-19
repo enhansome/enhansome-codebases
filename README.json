@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T15:30:04Z",
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 130004
+            "stars": 130005
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 365739812,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:11:40Z",
+            "last_commit": "2026-08-19T12:06:39Z",
             "owner": "tldraw",
             "repo": "tldraw",
             "stars": 49858
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-08T17:13:42Z",
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47798
+            "stars": 47799
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:54:03Z",
+            "last_commit": "2026-08-19T12:21:39Z",
             "owner": "mattermost",
             "repo": "mattermost",
             "stars": 38840
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 529708137,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:53:18Z",
+            "last_commit": "2026-08-19T12:14:31Z",
             "owner": "dubinc",
             "repo": "dub",
             "stars": 24526
@@ -372,7 +372,7 @@
             "archived": false,
             "id": 29924433,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:51:48Z",
+            "last_commit": "2026-08-19T12:16:07Z",
             "owner": "lukevella",
             "repo": "rallly",
             "stars": 5218
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:03:31.136Z",
+    "last_updated": "2026-08-19T12:22:55.618Z",
     "original_repository": "alan2207/awesome-codebases",
     "original_repository_id": 651399411,
     "original_repository_sha": "d23b16ee0ac2e4b1dd4f797fbb15c3549b457c4f",

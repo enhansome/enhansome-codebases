@@ -1,17 +1,17 @@
 # Awesome codebases with stars
 
-## **Awesome Codebases** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,651 | 🐛 102 | 📅 2026-08-18
+## **Awesome Codebases** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
 
 A collection of awesome open source codebases worth exploring.
 
-* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 130,004 | 🐛 3,334 | 🌐 TypeScript | 📅 2026-08-16 - Virtual whiteboard for sketching hand-drawn like diagrams
+* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 130,005 | 🐛 3,334 | 🌐 TypeScript | 📅 2026-08-16 - Virtual whiteboard for sketching hand-drawn like diagrams
 * [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,107 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-* [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,858 | 🐛 483 | 🌐 TypeScript | 📅 2026-08-19 - a very good whiteboard
-* [Cal.com](https://github.com/calcom/cal.com) ⭐ 47,798 | 🐛 1,422 | 🌐 TypeScript | 📅 2026-08-08 - Scheduling infrastructure for absolutely everyone.
+* [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,858 | 🐛 484 | 🌐 TypeScript | 📅 2026-08-19 - a very good whiteboard
+* [Cal.com](https://github.com/calcom/cal.com) ⭐ 47,799 | 🐛 1,422 | 🌐 TypeScript | 📅 2026-08-08 - Scheduling infrastructure for absolutely everyone.
 * [Mattermost](https://github.com/mattermost/mattermost) ⭐ 38,840 | 🐛 966 | 🌐 TypeScript | 📅 2026-08-19 - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) ⭐ 35,717 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-14 - A simple, scalable, and powerful architecture for building production ready React applications.
 * [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 29,769 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-19 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-* [Dub.sh](https://github.com/steven-tey/dub) ⭐ 24,526 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-19 - An open-source link shortener with built-in analytics + free custom domains.
+* [Dub.sh](https://github.com/steven-tey/dub) ⭐ 24,526 | 🐛 159 | 🌐 TypeScript | 📅 2026-08-19 - An open-source link shortener with built-in analytics + free custom domains.
 * [Taxonomy](https://github.com/shadcn/taxonomy) ⭐ 19,282 | 🐛 219 | 🌐 TypeScript | 📅 2026-04-20 - An open source application built using the new router, server components and everything new in Next.js 13.
 * [Bluesky Social](https://github.com/bluesky-social/social-app) ⭐ 18,229 | 🐛 2,355 | 🌐 TypeScript | 📅 2026-08-19 - The Bluesky Social application for Web, iOS, and Android
 * [ZincSearch](https://github.com/zincsearch/zincsearch) ⚠️ Archived - A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -28,7 +28,7 @@ A collection of awesome open source codebases worth exploring.
 * [Takenote](https://github.com/taniarascia/takenote) ⭐ 7,127 | 🐛 81 | 🌐 TypeScript | 📅 2024-06-29 - A web-based notes app for developers.
 * [Bulletproof Node.js](https://github.com/santiq/bulletproof-nodejs) ⭐ 5,776 | 🐛 68 | 🌐 TypeScript | 📅 2024-06-19 - Implementation of a bulletproof node.js API
 * [Epic Stack](https://github.com/epicweb-dev/epic-stack) ⭐ 5,546 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-09 - This is a Remix Stack with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
-* [Rally](https://github.com/lukevella/rallly) ⭐ 5,218 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19 - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+* [Rally](https://github.com/lukevella/rallly) ⭐ 5,218 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-19 - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * [Readme.so](https://github.com/octokatherine/readme.so) ⭐ 4,629 | 🐛 64 | 🌐 JavaScript | 📅 2026-03-13 - An online drag-and-drop editor to easily build READMEs
 * [Highstorm](https://github.com/chronark/highstorm) ⭐ 3,314 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-13 - Open Source Event Monitoring
 * [Frontend Clean Architecture](https://github.com/bespoyasov/frontend-clean-architecture) ⭐ 2,585 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-25 - React + TypeScript app built using the clean architecture principles in a more functional way.
