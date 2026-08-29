@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T12:28:30Z",
-            "open_issues": 3419,
+            "open_issues": 3422,
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 130726,
+            "stars": 130750,
             "topics": [
               "canvas",
               "collaboration",
@@ -48,7 +48,7 @@
             "open_issues": 27,
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84157,
+            "stars": 84162,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -69,7 +69,7 @@
             "open_issues": 725,
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 50016,
+            "stars": 50021,
             "topics": [
               "canvas",
               "collaboration",
@@ -103,7 +103,7 @@
             "open_issues": 1430,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47992,
+            "stars": 48002,
             "topics": [
               "next-auth",
               "nextjs",
@@ -132,8 +132,8 @@
             "id": 37448451,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T02:05:43Z",
-            "open_issues": 997,
+            "last_commit": "2026-08-29T08:39:10Z",
+            "open_issues": 999,
             "owner": "mattermost",
             "repo": "mattermost",
             "stars": 38936,
@@ -165,7 +165,7 @@
             "open_issues": 41,
             "owner": "alan2207",
             "repo": "bulletproof-react",
-            "stars": 35754,
+            "stars": 35757,
             "topics": [
               "react",
               "react-applications",
@@ -194,7 +194,7 @@
             "open_issues": 140,
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 29831,
+            "stars": 29832,
             "topics": [
               "debian",
               "deep-video",
@@ -222,11 +222,11 @@
             "id": 529708137,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T23:27:42Z",
-            "open_issues": 156,
+            "last_commit": "2026-08-29T05:17:34Z",
+            "open_issues": 154,
             "owner": "dubinc",
             "repo": "dub",
-            "stars": 24600,
+            "stars": 24603,
             "topics": [
               "clickhouse",
               "mysql",
@@ -285,10 +285,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T23:47:53Z",
-            "open_issues": 2394,
+            "open_issues": 2395,
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18248,
+            "stars": 18252,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -309,7 +309,7 @@
             "open_issues": 48,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17886,
+            "stars": 17887,
             "topics": [
               "elasticsearch",
               "go",
@@ -339,7 +339,7 @@
             "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17237,
+            "stars": 17239,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -407,10 +407,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T21:14:25Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13734,
+            "stars": 13737,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -446,7 +446,7 @@
             "open_issues": 10,
             "owner": "oldboyxx",
             "repo": "jira_clone",
-            "stars": 11057,
+            "stars": 11056,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -467,7 +467,7 @@
             "open_issues": 36,
             "owner": "Nutlope",
             "repo": "roomGPT",
-            "stars": 10671,
+            "stars": 10672,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -517,7 +517,7 @@
             "open_issues": 102,
             "owner": "devhubapp",
             "repo": "devhub",
-            "stars": 10119,
+            "stars": 10121,
             "topics": [
               "android",
               "cross-platform",
@@ -697,7 +697,7 @@
             "open_issues": 68,
             "owner": "santiq",
             "repo": "bulletproof-nodejs",
-            "stars": 5779,
+            "stars": 5780,
             "topics": [
               "agendajs",
               "boilerplate",
@@ -725,11 +725,11 @@
             "id": 636447277,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T00:09:00Z",
+            "last_commit": "2026-08-29T13:53:13Z",
             "open_issues": 13,
             "owner": "epicweb-dev",
             "repo": "epic-stack",
-            "stars": 5544,
+            "stars": 5545,
             "topics": [
               "epic-stack",
               "remix-stack",
@@ -750,7 +750,7 @@
             "id": 29924433,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T03:56:01Z",
+            "last_commit": "2026-08-29T15:24:19Z",
             "open_issues": 5,
             "owner": "lukevella",
             "repo": "rallly",
@@ -788,7 +788,7 @@
             "open_issues": 64,
             "owner": "octokatherine",
             "repo": "readme.so",
-            "stars": 4629,
+            "stars": 4630,
             "topics": [
               "markdown",
               "nextjs",
@@ -835,7 +835,7 @@
             "open_issues": 2,
             "owner": "bespoyasov",
             "repo": "frontend-clean-architecture",
-            "stars": 2584,
+            "stars": 2585,
             "topics": [
               "adapters",
               "application",
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:43.258Z",
+    "last_updated": "2026-08-29T15:45:40.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome open-source codebases worth exploring.",
