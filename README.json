@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+            "homepage": "https://excalidraw.com",
             "id": 231283452,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:28:30Z",
+            "open_issues": 3419,
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 130707
+            "stars": 130726,
+            "topics": [
+              "canvas",
+              "collaboration",
+              "diagrams",
+              "drawing",
+              "hacktoberfest",
+              "productivity",
+              "whiteboard"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+            "homepage": "https://docs.realworld.show",
             "id": 52631841,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T06:00:45Z",
+            "open_issues": 27,
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84158
+            "stars": 84157,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -42,12 +60,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
+            "homepage": "https://tldraw.dev",
             "id": 365739812,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:27:36Z",
+            "open_issues": 725,
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 50015
+            "stars": 50016,
+            "topics": [
+              "canvas",
+              "collaboration",
+              "design",
+              "diagram",
+              "drawing",
+              "infinite",
+              "multiplayer",
+              "react",
+              "sdk",
+              "sketch",
+              "sync",
+              "whiteboard"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -58,12 +94,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "homepage": "https://cal.diy",
             "id": 350360184,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T17:13:42Z",
+            "open_issues": 1430,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 47979
+            "stars": 47992,
+            "topics": [
+              "next-auth",
+              "nextjs",
+              "open-source",
+              "postgresql",
+              "prisma",
+              "t3-stack",
+              "tailwindcss",
+              "trpc",
+              "turborepo",
+              "typescript",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -74,12 +127,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "homepage": "https://mattermost.com",
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:20:57Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:05:43Z",
+            "open_issues": 997,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38934
+            "stars": 38936,
+            "topics": [
+              "collaboration",
+              "golang",
+              "hacktoberfest",
+              "mattermost",
+              "monorepo",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -90,12 +156,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. ",
+            "homepage": null,
             "id": 372240402,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-14T13:53:04Z",
+            "open_issues": 41,
             "owner": "alan2207",
             "repo": "bulletproof-react",
-            "stars": 35752
+            "stars": 35754,
+            "topics": [
+              "react",
+              "react-applications",
+              "react-architecture-patterns",
+              "react-best-practice",
+              "react-guidelines",
+              "react-project-structure",
+              "react-typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -106,12 +185,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+            "homepage": "https://jitsi.org/meet",
             "id": 15225670,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:40:18Z",
+            "open_issues": 140,
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 29830
+            "stars": 29831,
+            "topics": [
+              "debian",
+              "deep-video",
+              "jitsi",
+              "jitsi-meet",
+              "scalable-video-conferences",
+              "sfu",
+              "video",
+              "video-communication",
+              "video-conferencing",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -122,12 +217,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
+            "homepage": "https://dub.co",
             "id": 529708137,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:47:41Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:27:42Z",
+            "open_issues": 156,
             "owner": "dubinc",
             "repo": "dub",
-            "stars": 24599
+            "stars": 24600,
+            "topics": [
+              "clickhouse",
+              "mysql",
+              "nextjs",
+              "open-source",
+              "planetscale",
+              "prisma",
+              "tailwindcss",
+              "tinybird",
+              "typescript",
+              "upstash",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -138,12 +250,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+            "homepage": null,
             "id": 553759919,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-20T12:01:38Z",
+            "open_issues": 218,
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19289
+            "stars": 19289,
+            "topics": [
+              "nextauthjs",
+              "nextjs",
+              "prisma",
+              "radix-ui",
+              "tailwindcss",
+              "typescript",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -154,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "homepage": "https://bsky.app",
             "id": 501027541,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:01:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:47:53Z",
+            "open_issues": 2394,
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18247
+            "stars": 18248,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -170,12 +300,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+            "homepage": "https://zincsearch-docs.zinc.dev",
             "id": 434218673,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-09T05:30:16Z",
+            "open_issues": 48,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17886
+            "stars": 17886,
+            "topics": [
+              "elasticsearch",
+              "go",
+              "golang",
+              "modern",
+              "opensearch",
+              "search",
+              "searchengine",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -186,12 +330,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music streaming solution that works.",
+            "homepage": "https://koel.dev",
             "id": 47495360,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:35:45Z",
+            "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17236
+            "stars": 17237,
+            "topics": [
+              "audio",
+              "hacktoberfest",
+              "laravel",
+              "music",
+              "music-player",
+              "streaming",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -202,12 +359,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included",
+            "homepage": null,
             "id": 316988921,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-11T05:47:51Z",
+            "open_issues": 5,
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14893
+            "stars": 14894,
+            "topics": [
+              "architectural-patterns",
+              "architecture",
+              "backend",
+              "best-practices",
+              "clean-architecture",
+              "clean-code",
+              "ddd",
+              "design-patterns",
+              "development",
+              "domain-driven-design",
+              "hexagonal-architecture",
+              "javascript",
+              "nestjs",
+              "nodejs",
+              "onion-architecture",
+              "secure-by-design",
+              "solid-principles",
+              "system-design",
+              "typeorm",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -218,12 +401,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+            "homepage": "https://owasp-juice.shop",
             "id": 24233689,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:14:25Z",
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13734
+            "stars": 13734,
+            "topics": [
+              "24pullrequests",
+              "application-security",
+              "appsec",
+              "ctf",
+              "hacking",
+              "hacktoberfest",
+              "javascript",
+              "owasp",
+              "owasp-top-10",
+              "owasp-top-ten",
+              "pentesting",
+              "security",
+              "vulnapp",
+              "vulnerable"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -234,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+            "homepage": "http://jira.ivorreic.com",
             "id": 225252643,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-20T03:45:15Z",
+            "open_issues": 10,
             "owner": "oldboyxx",
             "repo": "jira_clone",
-            "stars": 11057
+            "stars": 11057,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -250,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Upload a photo of your room to generate your dream room with AI.",
+            "homepage": "https://www.roomgpt.io/",
             "id": 604791960,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-20T12:17:17Z",
+            "open_issues": 36,
             "owner": "Nutlope",
             "repo": "roomGPT",
-            "stars": 10671
+            "stars": 10671,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -266,12 +479,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "homepage": "https://tailwind-nextjs-starter-blog.vercel.app/",
             "id": 328121260,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-08T15:11:33Z",
+            "open_issues": 86,
             "owner": "timlrx",
             "repo": "tailwind-nextjs-starter-blog",
-            "stars": 10549
+            "stars": 10549,
+            "topics": [
+              "blogging",
+              "demo-blog",
+              "mdx",
+              "nextjs",
+              "publishing",
+              "reactjs",
+              "tailwind-css"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -282,12 +508,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them",
+            "homepage": "https://devhubapp.com",
             "id": 75236196,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-09-07T23:06:30Z",
+            "open_issues": 102,
             "owner": "devhubapp",
             "repo": "devhub",
-            "stars": 10119
+            "stars": 10119,
+            "topics": [
+              "android",
+              "cross-platform",
+              "desktop",
+              "devhub",
+              "electron",
+              "github",
+              "github-api",
+              "graphql",
+              "hacktoberfest",
+              "ios",
+              "javascript",
+              "macos",
+              "notifications",
+              "react",
+              "react-native",
+              "react-native-web",
+              "redux",
+              "typescript",
+              "web",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -298,12 +550,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)",
+            "homepage": null,
             "id": 254682413,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2024-08-18T10:19:30Z",
+            "open_issues": 112,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9119
+            "stars": 9119,
+            "topics": [
+              "adblock",
+              "alternative",
+              "alternative-frontends",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "bibliogram",
+              "degoogle",
+              "frontend",
+              "instagram",
+              "invidious",
+              "nitter",
+              "privacy",
+              "reddit",
+              "tracking",
+              "twitter",
+              "youtube",
+              "youtube-dl"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -314,12 +590,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Clone, deploy, and fully customize a SaaS subscription application with Next.js.",
+            "homepage": "https://subscription-payments.vercel.app/",
             "id": 311865672,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-23T15:21:43Z",
+            "open_issues": 0,
             "owner": "vercel",
             "repo": "nextjs-subscription-payments",
-            "stars": 7719
+            "stars": 7719,
+            "topics": [
+              "nextjs-starter",
+              "stripe-checkout",
+              "stripe-customer-portal",
+              "supabase",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -330,12 +617,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",
+            "homepage": "https://next-enterprise.vercel.app",
             "id": 630874227,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:57:47Z",
+            "open_issues": 25,
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7450
+            "stars": 7450,
+            "topics": [
+              "boilerplate",
+              "chatgpt",
+              "cva",
+              "eslint",
+              "jamstack",
+              "javascript-ai",
+              "next",
+              "next-js",
+              "next-theme",
+              "nextjs",
+              "nextjs13",
+              "radix-ui",
+              "react",
+              "react-enterprise-boilerplate",
+              "seo",
+              "starter-kit",
+              "starter-template",
+              "tailwindcss",
+              "typescript",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -346,12 +659,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝  ‎ A web-based notes app for developers.",
+            "homepage": "https://takenote.dev",
             "id": 211238195,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-29T22:57:36Z",
+            "open_issues": 81,
             "owner": "taniarascia",
             "repo": "takenote",
-            "stars": 7126
+            "stars": 7125,
+            "topics": [
+              "github-sync",
+              "hacktoberfest",
+              "markdown-editor",
+              "note-taking",
+              "notes",
+              "notes-app",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -362,12 +688,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of a bulletproof node.js API 🛡️",
+            "homepage": "https://softwareontheroad.com/ideal-nodejs-project-structure/",
             "id": 182484613,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-19T00:14:25Z",
+            "open_issues": 68,
             "owner": "santiq",
             "repo": "bulletproof-nodejs",
-            "stars": 5779
+            "stars": 5779,
+            "topics": [
+              "agendajs",
+              "boilerplate",
+              "express",
+              "javascript",
+              "mongodb",
+              "mongoose",
+              "node",
+              "nodejs",
+              "typedi",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -378,12 +720,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.",
+            "homepage": "https://www.epicweb.dev/epic-stack",
             "id": 636447277,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T00:09:00Z",
+            "open_issues": 13,
             "owner": "epicweb-dev",
             "repo": "epic-stack",
-            "stars": 5544
+            "stars": 5544,
+            "topics": [
+              "epic-stack",
+              "remix-stack",
+              "remix-stacks"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -394,12 +745,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.",
+            "homepage": "https://rallly.co",
             "id": 29924433,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:56:03Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:56:01Z",
+            "open_issues": 5,
             "owner": "lukevella",
             "repo": "rallly",
-            "stars": 5229
+            "stars": 5231,
+            "topics": [
+              "i18next",
+              "next-auth",
+              "nextjs",
+              "postgresql",
+              "prisma",
+              "react-email",
+              "t3-stack",
+              "tailwindcss",
+              "trpc",
+              "turborepo",
+              "typescript",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -410,12 +779,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An online drag-and-drop editor to easily build READMEs",
+            "homepage": "https://readme.so",
             "id": 356007050,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-13T04:38:06Z",
+            "open_issues": 64,
             "owner": "octokatherine",
             "repo": "readme.so",
-            "stars": 4629
+            "stars": 4629,
+            "topics": [
+              "markdown",
+              "nextjs",
+              "react",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -426,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Event Monitoring",
+            "homepage": "https://highstorm.app",
             "id": 623053447,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2023-12-13T14:31:27Z",
+            "open_issues": 12,
             "owner": "chronark",
             "repo": "highstorm",
-            "stars": 3315
+            "stars": 3315,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -442,12 +826,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React + TypeScript app built using the clean architecture principles in a more functional way.",
+            "homepage": "https://bespoyasov.me/blog/clean-architecture-on-frontend/",
             "id": 374626738,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-01-25T14:09:51Z",
+            "open_issues": 2,
             "owner": "bespoyasov",
             "repo": "frontend-clean-architecture",
-            "stars": 2584
+            "stars": 2584,
+            "topics": [
+              "adapters",
+              "application",
+              "clean-architecture",
+              "domain",
+              "functional",
+              "layered-architecture",
+              "onion-architecture"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -458,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TDungeon is a small adventure game that runs in the Typescript type system",
+            "homepage": null,
             "id": 539657053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-09-23T17:54:33Z",
+            "open_issues": 0,
             "owner": "cassiozen",
             "repo": "TDungeon",
-            "stars": 1189
+            "stars": 1189,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -474,12 +876,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full stack boilerplate with Next.js, Prisma, Tailwind, TypeScript, Docker, Postgres, documentation, frontend and backend unit and integration tests with Jest, Cypress end-to-end tests, Github Actions CI/CD workflows, and production deployment with Traefik and Docker.",
+            "homepage": "https://nextjs-prisma-boilerplate.arm1.nemanjamitic.com",
             "id": 426750292,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-11T13:06:49Z",
+            "open_issues": 2,
             "owner": "nemanjam",
             "repo": "nextjs-prisma-boilerplate",
-            "stars": 715
+            "stars": 715,
+            "topics": [
+              "authentication",
+              "boilerplate",
+              "cicd",
+              "cypress",
+              "docker",
+              "github-actions",
+              "jest",
+              "nextjs",
+              "postgresql",
+              "prisma",
+              "react",
+              "react-hook-form",
+              "react-query",
+              "react-testing-library",
+              "starter-project",
+              "tailwindcss",
+              "traefik",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -490,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easily add user reviews, feedback, and comments to your website in one line of code.",
+            "homepage": "https://fastfeedback.io",
             "id": 268327310,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-12T15:05:54Z",
+            "open_issues": 0,
             "owner": "leerob",
             "repo": "fastfeedback",
-            "stars": 604
+            "stars": 604,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -506,12 +937,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support",
+            "homepage": "https://maglit.me",
             "id": 459733233,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-24T20:27:26Z",
+            "open_issues": 9,
             "owner": "NayamAmarshe",
             "repo": "thiss.link",
-            "stars": 600
+            "stars": 600,
+            "topics": [
+              "encryption",
+              "foss",
+              "free",
+              "linkshortener",
+              "nextjs",
+              "open-source",
+              "privacy",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -522,12 +967,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of practical Nuxt showcases exploring different approaches to full-stack web development.",
+            "homepage": "https://bulletproof-nuxt.stackhacker.io",
             "id": 535236187,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T01:59:09Z",
+            "open_issues": 9,
             "owner": "hirotaka",
             "repo": "pragmatic-nuxt",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "architecture",
+              "best-practices",
+              "boilerplate",
+              "cloudflare-pages",
+              "drizzle-orm",
+              "nuxt",
+              "nuxt3",
+              "tailwindcss",
+              "typescript",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -538,12 +1000,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time whiteboard",
+            "homepage": "https://collabio-kriziu.herokuapp.com/",
             "id": 493341629,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-08-03T23:05:06Z",
+            "open_issues": 1,
             "owner": "kriziu",
             "repo": "collabio",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "canvas",
+              "canvas2d",
+              "nextjs",
+              "react",
+              "realtime",
+              "socket-io",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -554,12 +1029,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro frontend based E-shop app composed with Module Federation",
+            "homepage": null,
             "id": 636579698,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-19T12:08:36Z",
+            "open_issues": 0,
             "owner": "alan2207",
             "repo": "e-shop-with-mf",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "e-commerce-project",
+              "micro-frontend",
+              "micro-frontends-demo",
+              "nextjs",
+              "vue",
+              "webpack-module-federation"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         },
@@ -570,12 +1057,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse github through a website made in NextJS",
+            "homepage": "https://nextjs-github-browser.vercel.app",
             "id": 364663872,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-08-02T21:45:38Z",
+            "open_issues": 1,
             "owner": "topheman",
             "repo": "nextjs-github-browser",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "apollo",
+              "graphql",
+              "nextjs",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
         }
@@ -584,15 +1082,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:12.300Z",
+    "last_updated": "2026-08-29T04:33:43.258Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome open-source codebases worth exploring.",
+      "homepage": null,
       "id": 651399411,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-10-21T20:37:26Z",
+      "open_issues": 5,
       "owner": "alan2207",
       "repo": "awesome-codebases",
-      "stars": 1000
+      "stars": 1000,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "codebase"
+      ]
     },
     "original_repository_sha": "d23b16ee0ac2e4b1dd4f797fbb15c3549b457c4f",
     "enhanced_repository": "enhansome/enhansome-codebases",
