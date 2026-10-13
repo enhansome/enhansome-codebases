@@ -15,11 +15,11 @@
             "id": 231283452,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T16:59:34Z",
-            "open_issues": 3268,
+            "last_commit": "2026-10-13T15:07:27Z",
+            "open_issues": 3278,
             "owner": "excalidraw",
             "repo": "excalidraw",
-            "stars": 133730,
+            "stars": 133799,
             "topics": [
               "canvas",
               "collaboration",
@@ -48,7 +48,7 @@
             "open_issues": 30,
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84275,
+            "stars": 84282,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -65,11 +65,11 @@
             "id": 365739812,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T19:47:07Z",
-            "open_issues": 591,
+            "last_commit": "2026-10-13T18:08:21Z",
+            "open_issues": 578,
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 50873,
+            "stars": 50892,
             "topics": [
               "canvas",
               "collaboration",
@@ -100,10 +100,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T07:48:40Z",
-            "open_issues": 1504,
+            "open_issues": 1506,
             "owner": "calcom",
             "repo": "cal.diy",
-            "stars": 48970,
+            "stars": 48980,
             "topics": [
               "next-auth",
               "nextjs",
@@ -132,11 +132,11 @@
             "id": 37448451,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T20:25:12Z",
-            "open_issues": 1093,
+            "last_commit": "2026-10-13T18:29:05Z",
+            "open_issues": 1083,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 39319,
+            "stars": 39324,
             "topics": [
               "collaboration",
               "golang",
@@ -165,7 +165,7 @@
             "open_issues": 42,
             "owner": "alan2207",
             "repo": "bulletproof-react",
-            "stars": 35966,
+            "stars": 35968,
             "topics": [
               "react",
               "react-applications",
@@ -190,11 +190,11 @@
             "id": 15225670,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T20:47:26Z",
-            "open_issues": 145,
+            "last_commit": "2026-10-13T15:09:11Z",
+            "open_issues": 147,
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 30074,
+            "stars": 30073,
             "topics": [
               "debian",
               "deep-video",
@@ -222,11 +222,11 @@
             "id": 529708137,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T20:02:09Z",
-            "open_issues": 112,
+            "last_commit": "2026-10-13T18:31:29Z",
+            "open_issues": 115,
             "owner": "dubinc",
             "repo": "dub",
-            "stars": 24876,
+            "stars": 24875,
             "topics": [
               "clickhouse",
               "mysql",
@@ -259,7 +259,7 @@
             "open_issues": 218,
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19281,
+            "stars": 19279,
             "topics": [
               "nextauthjs",
               "nextjs",
@@ -284,11 +284,11 @@
             "id": 501027541,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T20:20:52Z",
-            "open_issues": 2403,
+            "last_commit": "2026-10-13T17:40:31Z",
+            "open_issues": 2414,
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18337,
+            "stars": 18336,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -309,7 +309,7 @@
             "open_issues": 44,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17919,
+            "stars": 17918,
             "topics": [
               "elasticsearch",
               "go",
@@ -335,8 +335,8 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-12T18:21:23Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-13T18:25:23Z",
+            "open_issues": 18,
             "owner": "koel",
             "repo": "koel",
             "stars": 17277,
@@ -368,7 +368,7 @@
             "open_issues": 5,
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14970,
+            "stars": 14976,
             "topics": [
               "architectural-patterns",
               "architecture",
@@ -410,7 +410,7 @@
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14073,
+            "stars": 14082,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -467,7 +467,7 @@
             "open_issues": 37,
             "owner": "Nutlope",
             "repo": "roomGPT",
-            "stars": 10682,
+            "stars": 10683,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -517,7 +517,7 @@
             "open_issues": 105,
             "owner": "devhubapp",
             "repo": "devhub",
-            "stars": 10136,
+            "stars": 10137,
             "topics": [
               "android",
               "cross-platform",
@@ -559,7 +559,7 @@
             "open_issues": 111,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9202,
+            "stars": 9201,
             "topics": [
               "adblock",
               "alternative",
@@ -599,7 +599,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "nextjs-subscription-payments",
-            "stars": 7719,
+            "stars": 7718,
             "topics": [
               "nextjs-starter",
               "stripe-checkout",
@@ -622,7 +622,7 @@
             "id": 630874227,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T01:26:39Z",
+            "last_commit": "2026-10-13T11:28:54Z",
             "open_issues": 26,
             "owner": "Blazity",
             "repo": "next-enterprise",
@@ -668,7 +668,7 @@
             "open_issues": 81,
             "owner": "taniarascia",
             "repo": "takenote",
-            "stars": 7125,
+            "stars": 7126,
             "topics": [
               "github-sync",
               "hacktoberfest",
@@ -729,7 +729,7 @@
             "open_issues": 13,
             "owner": "epicweb-dev",
             "repo": "epic-stack",
-            "stars": 5538,
+            "stars": 5537,
             "topics": [
               "epic-stack",
               "remix-stack",
@@ -750,8 +750,8 @@
             "id": 29924433,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T13:08:51Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-13T18:22:21Z",
+            "open_issues": 4,
             "owner": "lukevella",
             "repo": "rallly",
             "stars": 5300,
@@ -864,7 +864,7 @@
             "open_issues": 0,
             "owner": "cassiozen",
             "repo": "TDungeon",
-            "stars": 1187,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:12.300Z"
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:26:00.229Z",
+    "last_updated": "2026-10-13T18:31:40.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome open-source codebases worth exploring.",
@@ -1094,7 +1094,7 @@
       "open_issues": 5,
       "owner": "alan2207",
       "repo": "awesome-codebases",
-      "stars": 1008,
+      "stars": 1010,
       "topics": [
         "awesome",
         "awesome-list",
