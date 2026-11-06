@@ -1,34 +1,34 @@
 # Awesome codebases with stars
 
-## **Awesome Codebases** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,630 | 🐛 103 | 📅 2026-09-02
+## **Awesome Codebases** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,296 | 🐛 103 | 📅 2026-09-02
 
 A collection of awesome open source codebases worth exploring.
 
-* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 135,213 | 🐛 3,488 | 🌐 TypeScript | 📅 2026-11-05 - Virtual whiteboard for sketching hand-drawn like diagrams
+* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 135,238 | 🐛 3,492 | 🌐 TypeScript | 📅 2026-11-06 - Virtual whiteboard for sketching hand-drawn like diagrams
 * [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,367 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-02 - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-* [tldraw](https://github.com/tldraw/tldraw) ⭐ 51,273 | 🐛 570 | 🌐 TypeScript | 📅 2026-11-05 - a very good whiteboard
-* [Cal.com](https://github.com/calcom/cal.com) ⭐ 49,714 | 🐛 1,606 | 🌐 TypeScript | 📅 2026-11-03 - Scheduling infrastructure for absolutely everyone.
-* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,542 | 🐛 1,104 | 🌐 TypeScript | 📅 2026-11-05 - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-* [Bulletproof React](https://github.com/alan2207/bulletproof-react) ⭐ 36,038 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-14 - A simple, scalable, and powerful architecture for building production ready React applications.
-* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,203 | 🐛 206 | 🌐 TypeScript | 📅 2026-11-05 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-* [Dub.sh](https://github.com/steven-tey/dub) ⭐ 25,116 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-27 - An open-source link shortener with built-in analytics + free custom domains.
-* [Taxonomy](https://github.com/shadcn/taxonomy) ⭐ 19,290 | 🐛 215 | 🌐 TypeScript | 📅 2026-04-20 - An open source application built using the new router, server components and everything new in Next.js 13.
-* [Bluesky Social](https://github.com/bluesky-social/social-app) ⭐ 18,377 | 🐛 2,446 | 🌐 TypeScript | 📅 2026-11-05 - The Bluesky Social application for Web, iOS, and Android
-* [ZincSearch](https://github.com/zincsearch/zincsearch) ⭐ 17,932 | 🐛 45 | 🌐 Go | 📅 2026-09-16 - A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-* [Koel](https://github.com/koel/koel) ⭐ 17,333 | 🐛 13 | 🌐 PHP | 📅 2026-11-03 - A personal music streaming server that works.
-* [Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) ⭐ 15,007 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-11 - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-* [Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,364 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-* [Jira Clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,066 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-20 - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+* [tldraw](https://github.com/tldraw/tldraw) ⭐ 51,314 | 🐛 589 | 🌐 TypeScript | 📅 2026-11-06 - a very good whiteboard
+* [Cal.com](https://github.com/calcom/cal.com) ⭐ 49,750 | 🐛 1,606 | 🌐 TypeScript | 📅 2026-11-03 - Scheduling infrastructure for absolutely everyone.
+* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,549 | 🐛 1,119 | 🌐 TypeScript | 📅 2026-11-06 - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+* [Bulletproof React](https://github.com/alan2207/bulletproof-react) ⭐ 36,042 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-14 - A simple, scalable, and powerful architecture for building production ready React applications.
+* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,208 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-06 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+* [Dub.sh](https://github.com/steven-tey/dub) ⭐ 25,123 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-27 - An open-source link shortener with built-in analytics + free custom domains.
+* [Taxonomy](https://github.com/shadcn/taxonomy) ⭐ 19,291 | 🐛 215 | 🌐 TypeScript | 📅 2026-04-20 - An open source application built using the new router, server components and everything new in Next.js 13.
+* [Bluesky Social](https://github.com/bluesky-social/social-app) ⭐ 18,379 | 🐛 2,441 | 🌐 TypeScript | 📅 2026-11-06 - The Bluesky Social application for Web, iOS, and Android
+* [ZincSearch](https://github.com/zincsearch/zincsearch) ⭐ 17,932 | 🐛 44 | 🌐 Go | 📅 2026-09-16 - A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+* [Koel](https://github.com/koel/koel) ⭐ 17,333 | 🐛 15 | 🌐 PHP | 📅 2026-11-06 - A personal music streaming server that works.
+* [Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) ⭐ 15,009 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-11 - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+* [Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,377 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+* [Jira Clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,065 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-20 - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 * [RoomGPT](https://github.com/Nutlope/roomGPT) ⭐ 10,713 | 🐛 37 | 🌐 TypeScript | 📅 2024-04-20 - Upload a photo of your room to generate your dream room with AI.
 * [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) ⭐ 10,555 | 🐛 86 | 🌐 TypeScript | 📅 2026-02-08 - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
-* [Devhub](https://github.com/devhubapp/devhub) ⭐ 10,147 | 🐛 106 | 🌐 TypeScript | 📅 2024-09-07 - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-* [Alternative front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,243 | 🐛 112 | 📅 2024-08-18 - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+* [Devhub](https://github.com/devhubapp/devhub) ⭐ 10,149 | 🐛 106 | 🌐 TypeScript | 📅 2024-09-07 - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+* [Alternative front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,246 | 🐛 112 | 📅 2024-08-18 - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 * [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments) ⚠️ Archived - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
-* [Next Enterprise](https://github.com/Blazity/next-enterprise) ⭐ 7,469 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-02 - An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
+* [Next Enterprise](https://github.com/Blazity/next-enterprise) ⭐ 7,469 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-05 - An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 * [Takenote](https://github.com/taniarascia/takenote) ⭐ 7,121 | 🐛 81 | 🌐 TypeScript | 📅 2024-06-29 - A web-based notes app for developers.
-* [Bulletproof Node.js](https://github.com/santiq/bulletproof-nodejs) ⭐ 5,772 | 🐛 67 | 🌐 TypeScript | 📅 2024-06-19 - Implementation of a bulletproof node.js API
+* [Bulletproof Node.js](https://github.com/santiq/bulletproof-nodejs) ⭐ 5,773 | 🐛 67 | 🌐 TypeScript | 📅 2024-06-19 - Implementation of a bulletproof node.js API
 * [Epic Stack](https://github.com/epicweb-dev/epic-stack) ⭐ 5,546 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-25 - This is a Remix Stack with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
-* [Rally](https://github.com/lukevella/rallly) ⭐ 5,346 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-05 - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+* [Rally](https://github.com/lukevella/rallly) ⭐ 5,351 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-06 - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * [Readme.so](https://github.com/octokatherine/readme.so) ⭐ 4,634 | 🐛 63 | 🌐 JavaScript | 📅 2026-03-13 - An online drag-and-drop editor to easily build READMEs
 * [Highstorm](https://github.com/chronark/highstorm) ⭐ 3,313 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-13 - Open Source Event Monitoring
 * [Frontend Clean Architecture](https://github.com/bespoyasov/frontend-clean-architecture) ⭐ 2,592 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-25 - React + TypeScript app built using the clean architecture principles in a more functional way.
@@ -36,7 +36,7 @@ A collection of awesome open source codebases worth exploring.
 * [Next.js Prisma Boilerplate](https://github.com/nemanjam/nextjs-prisma-boilerplate) ⭐ 713 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-11 - Full stack boilerplate with Next.js, Prisma, Tailwind, TypeScript, Docker, Postgres, documentation, frontend and backend unit and integration tests with Jest, Cypress end-to-end tests, Github Actions CI/CD workflows, and production deployment with Traefik and Docker.
 * [Fast Feedback](https://github.com/leerob/fastfeedback) ⚠️ Archived - Easily add user reviews, feedback, and comments to your website in one line of code.
 * [Maglit](https://github.com/NayamAmarshe/MagLit) ⭐ 599 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-24 - MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
-* [Bulletproof Vue](https://github.com/hirotaka/bulletproof-vue) ⭐ 170 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05 - A simple, scalable, and powerful architecture for building production ready Vue applications.
+* [Bulletproof Vue](https://github.com/hirotaka/bulletproof-vue) ⭐ 170 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-06 - A simple, scalable, and powerful architecture for building production ready Vue applications.
 * [Collabio](https://github.com/kriziu/collabio) ⭐ 141 | 🐛 1 | 🌐 TypeScript | 📅 2024-08-03 - Real-time whiteboard
 * [Nextjs Github Browser](https://github.com/topheman/nextjs-github-browser) ⭐ 20 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-02 - Browse github through a website made in NextJS
 * [E-Shop with Micro Frontends](https://github.com/alan2207/e-shop-with-mf) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2023-05-19 - Micro frontend based E-shop app composed with Module Federation
@@ -52,4 +52,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
